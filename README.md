@@ -14,4 +14,4 @@ I identify architects and engineers capable of building systems that handle mill
 * **DevOps & Platform:** Identifying SREs and Cloud Engineers (AWS/Azure/GCP) who specialize in **Kubernetes, Terraform (IaC), and CI/CD automation** to ensure 99.9% uptime.
 
 ---
-**Search Strategy | Organizational Design | Technical Sourcing**
+**Search Strategy | Technical Sourcing**
